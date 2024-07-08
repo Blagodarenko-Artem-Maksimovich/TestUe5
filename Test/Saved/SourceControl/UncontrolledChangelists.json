@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UE Projects/TestUe5/Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/UE Projects/TestUe5/Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/14/FQRICZ49QJQ9U2YH5GN5EU.uasset",
+				"C:/UE Projects/TestUe5/Test/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/UE Projects/TestUe5/Test/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter2.uasset",
 				"C:/UE Projects/Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset",
 				"C:/UE Projects/Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset",
 				"C:/UE Projects/Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset",
